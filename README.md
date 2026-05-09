@@ -28,11 +28,11 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 1.  Flutter SDK'sının bilgisayarınızda kurulu olduğundan emin olun.
 2.  Projeyi klonlayın:
     ```bash
-    git clone https://github.com/KULLANICI_ADINIZ/PROJE_ADINIZ.git
+    git clone https://github.com/yalives7/WORD-GAME.git
     ```
 3.  Proje dizinine gidin ve bağımlılıkları yükleyin:
     ```bash
-    cd PROJE_ADINIZ
+    cd WORD-GAME
     flutter pub get
     ```
 4.  Uygulamayı bir emülatörde veya fiziksel cihazda başlatın:
