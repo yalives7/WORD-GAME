@@ -1,3 +1,5 @@
+![Uploading s3.png…]()
+<img width="435" height="877" alt="Anaekran" src="https://github.com/user-attachments/assets/fb414830-995e-4167-a0fc-c9466ce58605" />
 # Kelime Oyunu (Word Game) -Mobil Projem 🚀
 
 Merhaba! Bu proje, mobil uygulama geliştirme dünyasına attığım ilk adım ve benim **ilk Android / Mobil projem**. Mobil teknolojilere ve uygulama geliştirmeye olan yoğun ilgim doğrultusunda, kendimi geliştirmek ve pratik yapmak amacıyla bu kelime oyununu geliştirdim. 
