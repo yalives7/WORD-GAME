@@ -1,4 +1,5 @@
-![Uploading mainmenu.png…]()
+<img width="398" height="857" alt="mainmenu" src="https://github.com/user-attachments/assets/d44dddec-4cc8-489e-94d7-b2b824fb795c" />
+<img width="237" height="500" alt="s3" src="https://github.com/user-attachments/assets/559071e9-a9ca-4d1e-88c3-742a42ef73c6" />
 
 <img width="435" height="877" alt="Anaekran" src="https://github.com/user-attachments/assets/fb414830-995e-4167-a0fc-c9466ce58605" />
 # Kelime Oyunu (Word Game) -Mobil Projem 🚀
