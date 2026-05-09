@@ -1,7 +1,7 @@
-<img width="398" height="857" alt="mainmenu" src="https://github.com/user-attachments/assets/d44dddec-4cc8-489e-94d7-b2b824fb795c" />
-<img width="237" height="500" alt="s3" src="https://github.com/user-attachments/assets/559071e9-a9ca-4d1e-88c3-742a42ef73c6" />
+<img width="397" height="838" alt="skortable" src="https://github.com/user-attachments/assets/a1403f26-32ee-4a6d-a8ec-670a7a083a53" />
+<img width="186" height="400" alt="mainmenu2" src="https://github.com/user-attachments/assets/1a64592e-1611-4603-821c-f45d46e143a7" />
+<img width="187" height="400" alt="mainmenu22" src="https://github.com/user-attachments/assets/d03879b4-5ebc-4a1a-9037-83ba79a8b042" />
 
-<img width="435" height="877" alt="Anaekran" src="https://github.com/user-attachments/assets/fb414830-995e-4167-a0fc-c9466ce58605" />
 # Kelime Oyunu (Word Game) -Mobil Projem 🚀
 
 Merhaba! Bu proje, mobil uygulama geliştirme dünyasına attığım ilk adım ve benim **ilk Android / Mobil projem**. Mobil teknolojilere ve uygulama geliştirmeye olan yoğun ilgim doğrultusunda, kendimi geliştirmek ve pratik yapmak amacıyla bu kelime oyununu geliştirdim. 
@@ -50,3 +50,5 @@ Bu benim ilk projem olduğu için kod yapısı veya mimari yaklaşımlar konusun
 
 ---
 *Geliştirme yolculuğuma destek olduğunuz ve incelediğiniz için teşekkürler!*
+
+
