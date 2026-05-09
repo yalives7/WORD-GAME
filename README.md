@@ -1,4 +1,4 @@
-![Uploading s3.png…]()
+
 <img width="435" height="877" alt="Anaekran" src="https://github.com/user-attachments/assets/fb414830-995e-4167-a0fc-c9466ce58605" />
 # Kelime Oyunu (Word Game) -Mobil Projem 🚀
 
